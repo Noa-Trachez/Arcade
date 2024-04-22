@@ -1,0 +1,14 @@
+arcade
+*.o
+Makefile
+CMakeCache.txt
+CMakeFiles
+cmake_install.cmake
+cmake-build-debug
+build
+.idea
+lib
+*.DS_Store
+.vscode/
+vgcore*r
+*.score
