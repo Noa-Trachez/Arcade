@@ -20,7 +20,7 @@ https://github.com/Noa-Trachez/Arcade/assets/74274767/e73fca2b-3678-4a03-bba7-af
 
 
 ### Prérequis
-    - CSFML
+    - SFML
     - NCURSES
     - SDL2
     - C++
